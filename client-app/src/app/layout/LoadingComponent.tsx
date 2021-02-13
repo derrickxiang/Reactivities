@@ -1,5 +1,5 @@
 import React from 'react';
-import { DimmerInner, Dimmer, Loader} from 'semantic-ui-react';
+import { Dimmer, Loader} from 'semantic-ui-react';
 
 const LoadingComponent: React.FC<{
     inverted?: boolean;
